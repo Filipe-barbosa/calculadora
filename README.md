@@ -1,1 +1,3 @@
-# calculadora
+## Calculadora
+
+ Projeto calculadora utilizando TypeScript
